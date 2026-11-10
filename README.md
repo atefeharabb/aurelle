@@ -1,69 +1,17 @@
-# AURELLE — نسخه‌ی نمایشی (GitHub Pages)
+Online Clothing Store
 
-این پوشه یک فروشگاه **کاملاً استاتیک** است: بدون سرور، بدون دیتابیس و بدون پرداخت واقعی.
-محصولات، سبد خرید، سفارش‌ها و حساب‌ها به‌صورت شبیه‌سازی‌شده در مرورگر (localStorage) کار می‌کنند.
+A modern online clothing store designed to provide a simple, stylish, and enjoyable shopping experience.
 
-## دیدن سایت بدون هیچ ابزار اضافه
+This website showcases a collection of fashionable clothing with a clean and user-friendly interface, allowing customers to explore products, discover new styles, and enjoy a seamless online shopping experience.
 
-روی `index.html` دوبار کلیک کنید. همین. فایل HTML **خودکفا** است:
-جاوااسکریپت، استایل و فونت‌ها داخل خودش هستند، پس بدون نصب Node و بدون سرور باز می‌شود.
-(مرورگرها روی `file://` بارگذاری فایل‌های JS و فونت جداگانه را مسدود می‌کنند؛ به همین دلیل همه‌چیز داخل HTML قرار گرفته است.)
+Features
 
-آدرس‌های داخلی به شکل `#/shop` و `#/product/...` هستند و رفرش صفحه هم چیزی را نمی‌شکند.
+* Modern and responsive design
+* Stylish product displays
+* Easy navigation
+* Organized product categories
+* User-friendly shopping experience
 
----
+About
 
-## ۱) مخزن بسازید
-
-1. به <https://github.com/new> بروید.
-2. **Repository name**: مثلاً `aurelle`.
-3. **Public** را انتخاب کنید (برای Pages رایگان لازم است).
-4. هیچ تیک README / .gitignore نزنید.
-5. **Create repository**.
-
-## ۲) محتوای همین پوشه را آپلود کنید
-
-1. در صفحه‌ی مخزن: **Add file → Upload files**.
-2. **همه‌ی فایل‌ها و پوشه‌های داخل** این پوشه را رها کنید:
-   `index.html`، `images`، `404.html`، `favicon.svg`، `robots.txt`، `sitemap.xml`
-   و فایل مخفی `.nojekyll`.
-   ⚠️ خودِ پوشه‌ی `گیت هاب` را آپلود نکنید؛ فقط محتوای آن.
-3. پایین صفحه **Commit changes**.
-
-> اگر `.nojekyll` جا افتاد: **Add file → Create new file** ← نام `.nojekyll` ← محتوا خالی ← Commit.
-> این فایل مانع می‌شود GitHub فایل‌های شروع‌شده با `_` را نادیده بگیرد.
-
-## ۳) GitHub Pages را روشن کنید
-
-1. **Settings → Pages**
-2. **Source**: `Deploy from a branch`
-3. **Branch**: `main` و پوشه‌ی `/ (root)`
-4. **Save** — انتشار ۱ تا ۲ دقیقه طول می‌کشد.
-
-آدرس سایت:
-
-```
-https://<نام-کاربری>.github.io/<نام-مخزن>/
-```
-
-## ۴) نکته‌ها
-
-- حساب نمایشی برای تست ورود: `demo@aurelle.com` / `Demo1234!`
-  (پنل مدیریت در نسخه‌ی استاتیک غیرفعال است.)
-- چک‌اوت نمایشی است و هیچ پرداختی انجام نمی‌شود؛ نوار «DEMO» بالای سایت همین را اعلام می‌کند.
-- برای نسخه‌ی واقعی با API، دیتابیس و پنل مدیریت، از پوشه‌ی اصلی پروژه و
-  `docs/DEPLOYMENT.md` استفاده کنید.
-
----
-
-## ساختار فایل‌ها
-
-```
-index.html     خودکفا: JS + CSS + فونت‌ها همه inline (حدود ۰.۹ مگابایت)
-images/        عکس محصولات و ادیتوریال
-404.html       هدایت به صفحه‌ی اصلی برای آدرس‌های ناموجود
-.nojekyll      جلوگیری از پردازش Jekyll
-favicon.svg
-robots.txt
-sitemap.xml
-```
+This project is a web-based fashion store focused on combining style, simplicity, and functionality to make online shopping more convenient and enjoyable.

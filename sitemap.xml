@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://aurelle.studio/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://aurelle.studio/shop</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://aurelle.studio/shop?category=outerwear</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aurelle.studio/shop?category=knitwear</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aurelle.studio/shop?category=tailoring</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aurelle.studio/shop?category=dresses</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aurelle.studio/shop?category=accessories</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aurelle.studio/about</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://aurelle.studio/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://aurelle.studio/product/cashmere-wrap-coat</loc><priority>0.7</priority></url>
+  <url><loc>https://aurelle.studio/product/wool-silk-tailored-blazer</loc><priority>0.7</priority></url>
+  <url><loc>https://aurelle.studio/product/silk-column-dress</loc><priority>0.7</priority></url>
+  <url><loc>https://aurelle.studio/product/ribbed-merino-turtleneck</loc><priority>0.7</priority></url>
+  <url><loc>https://aurelle.studio/product/poplin-oversized-shirt</loc><priority>0.7</priority></url>
+  <url><loc>https://aurelle.studio/product/sculptural-leather-jacket</loc><priority>0.7</priority></url>
+</urlset>
